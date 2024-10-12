@@ -1,0 +1,6 @@
+/* src/app/components/LeadEnricher.css */
+.truncate-cell {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
